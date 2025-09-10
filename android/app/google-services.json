@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454526047789",
+    "project_id": "intellispend-9721",
+    "storage_bucket": "intellispend-9721.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454526047789:android:b140dff4ee86e15f180aa4",
+        "android_client_info": {
+          "package_name": "com.example.intellispend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE8v1BSyxort1XzGIm96rKVw27SO3jgu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
